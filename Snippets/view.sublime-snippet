@@ -1,0 +1,8 @@
+<snippet>
+<content><![CDATA[
+view(class="$1"$2)$0
+]]></content>
+<tabTrigger>view</tabTrigger>
+<description></description>
+<scope>text.html.vue, text.pug.embedded.html, text.pug</scope>
+</snippet>

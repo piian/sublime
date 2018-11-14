@@ -1,0 +1,8 @@
+<snippet>
+<content><![CDATA[
+console.log($1)
+]]></content>
+<tabTrigger>cl</tabTrigger>
+<description></description>
+<scope>text.html.vue, source.js.embedded.html, source.js, meta.export.js, meta.class.js, meta.block.js, meta.object-literal.js, meta.block.js, meta.function-call.method.js, support.type.object.console.js</scope>
+</snippet>

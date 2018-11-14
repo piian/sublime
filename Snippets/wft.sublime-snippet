@@ -1,0 +1,10 @@
+<snippet>
+<content><![CDATA[
+<view class="weui-cell__ft$1">
+    $0
+</view>
+]]></content>
+<tabTrigger>wft</tabTrigger>
+<description></description>
+<scope>text.html.vue</scope>
+</snippet>

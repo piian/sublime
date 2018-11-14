@@ -1,0 +1,25 @@
+<snippet>
+<content><![CDATA[
+export default class $1 extends wepy.page {
+    //页面配置
+    config = {
+      navigationBarTitleText: '$2'
+    }
+    data = {
+
+    }
+    watch = {
+
+    }
+    methods = {
+
+    }
+    onLoad() {
+
+    }
+}
+]]></content>
+<tabTrigger>wexport</tabTrigger>
+<description></description>
+<scope>text.html.vue, source.js.embedded.html, source.js, meta.import.js</scope>
+</snippet>

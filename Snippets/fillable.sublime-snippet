@@ -1,0 +1,8 @@
+<snippet>
+<content><![CDATA[
+protected \$fillable = ['${1}'];
+]]></content>
+<tabTrigger>fillable</tabTrigger>
+<description>Laravel model fillable</description>
+<scope>embedding.php, text.html.basic, meta.embedded.block.php, source.php, meta.class.php, meta.block.php, storage.modifier.php</scope>
+</snippet>

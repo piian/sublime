@@ -1,0 +1,10 @@
+<snippet>
+<content><![CDATA[
+<form bindSubmit="${1:submit}">
+    $0
+</form>
+]]></content>
+<tabTrigger>wform</tabTrigger>
+<description></description>
+<scope>text.html.vue, meta.tag.block.form.html, punctuation.definition.tag.begin.html</scope>
+</snippet>

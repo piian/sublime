@@ -1,0 +1,8 @@
+<snippet>
+<content><![CDATA[
+<navigator url="$1"${2: class="weui-agree__link"}>$3</navigator>
+]]></content>
+<tabTrigger>navigator</tabTrigger>
+<description></description>
+<scope>text.html.vue, meta.tag.other.html, punctuation.definition.tag.begin.html</scope>
+</snippet>

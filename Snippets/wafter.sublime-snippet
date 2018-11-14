@@ -1,0 +1,10 @@
+<snippet>
+<content><![CDATA[
+<view class="weui-cells weui-cells_after-title">
+  $0
+</view>
+]]></content>
+<tabTrigger>wafter</tabTrigger>
+<description></description>
+<scope>text.html.vue, meta.tag.other.html, punctuation.definition.tag.begin.html</scope>
+</snippet>

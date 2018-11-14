@@ -1,0 +1,12 @@
+<snippet>
+<content><![CDATA[
+try {
+  $1
+} catch (err) {
+  $2
+}
+]]></content>
+<tabTrigger>tryc</tabTrigger>
+<description></description>
+<scope>text.html.vue, source.js.embedded.html, source.js, meta.export.js, meta.class.js, meta.block.js, meta.object-literal.js, meta.block.js, meta.try.js, keyword.control.trycatch.js</scope>
+</snippet>
