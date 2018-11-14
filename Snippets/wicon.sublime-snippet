@@ -1,0 +1,8 @@
+<snippet>
+<content><![CDATA[
+<icon type="${1:success}" clor="$2"${3: size="$4"}$5></icon>
+]]></content>
+<tabTrigger>wicon</tabTrigger>
+<description></description>
+<scope>text.html.vue, meta.tag.other.html, punctuation.definition.tag.begin.html</scope>
+</snippet>

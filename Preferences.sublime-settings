@@ -1,0 +1,44 @@
+{
+	"added_words":
+	[
+		"enablePullDownRefresh",
+		"environment",
+		"async",
+		"await",
+		"detail",
+		"Laravel"
+	],
+	"caret_style": "phase",
+	"close_windows_when_empty": true,
+	"color_scheme": "Packages/Material Theme/schemes/Material-Theme.tmTheme",
+	"ensure_newline_at_eof_on_save": true,
+	"folder_exclude_patterns":
+	[
+		".svn",
+		".git",
+		".hg",
+		"CVS",
+		"node_modules",
+		"dist"
+	],
+	"font_face": "Source Code Pro",
+	"font_size": 18,
+	"highlight_modified_tabs": true,
+	"ignored_packages":
+	[
+	],
+	"line_padding_button": 8,
+	"line_padding_top": 8,
+	"open_files_in_new_window": false,
+	"rulers":
+	[
+		80,
+		120
+	],
+	"tab_size": 4,
+	"theme": "Material-Theme.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"word_separators": "./\\()\"':,.;<>~!@#$%^&*|+=[]{}`~?",
+	"word_wrap": false
+}

@@ -1,0 +1,8 @@
+<snippet>
+<content><![CDATA[
+<input class="weui-input$1" type="${2:text}" @input="$3" placeholder="$4"$5 />
+]]></content>
+<tabTrigger>winput</tabTrigger>
+<description></description>
+<scope>text.html.vue</scope>
+</snippet>

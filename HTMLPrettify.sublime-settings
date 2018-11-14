@@ -1,0 +1,18 @@
+{
+    "format_on_save": false,
+    "global_file_rules":
+    {
+        // Be sure to include all of the `html`, `css`, `js` and `json` keys in your user settings
+        // if you want to be able to prettify the default files as well.
+        "html":
+        {
+            "allowed_file_syntaxes": ["html", "xml", "vue"],
+            "disallowed_file_patterns": ["html", "xml", "vue", "pug"]
+        },
+        "js":
+        {
+            "allowed_file_syntaxes": ["javascript", "ecma", "react", "babel"],
+            "disallowed_file_patterns": ["pug"]
+        },
+    }
+}

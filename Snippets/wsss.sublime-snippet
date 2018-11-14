@@ -1,0 +1,8 @@
+<snippet>
+<content><![CDATA[
+wepy.setStorageSync('$1', $1)
+]]></content>
+<tabTrigger>wsss</tabTrigger>
+<description></description>
+<scope>text.html.vue, source.js.embedded.html, source.js, meta.block.js, meta.block.js, meta.try.js, meta.block.js, meta.conditional.js, meta.block.js, meta.conditional.js, meta.block.js</scope>
+</snippet>

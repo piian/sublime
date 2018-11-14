@@ -1,0 +1,5 @@
+{
+      // "phpcs_php_prefix_path": "/usr/local/bin/phpcs",
+    "php_cs_fixer_executable_path": "/usr/local/bin/phpcs",
+    "php_cs_fixer_on_save": false,
+}

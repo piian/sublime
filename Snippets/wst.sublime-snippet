@@ -1,0 +1,12 @@
+<snippet>
+<content><![CDATA[
+wepy.showToast({
+  title: '$1',
+  icon: '${2:none}',
+  ${3:duration: ${4:1500}}
+})
+]]></content>
+<tabTrigger>wst</tabTrigger>
+<description></description>
+<scope>text.html.vue, source.js.embedded.html, source.js, meta.export.js, meta.class.js, meta.block.js, meta.block.js, meta.conditional.js, meta.block.js, variable.other.object.js</scope>
+</snippet>

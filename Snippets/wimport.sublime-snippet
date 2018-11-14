@@ -1,0 +1,8 @@
+<snippet>
+<content><![CDATA[
+import $1 from '$2'
+]]></content>
+<tabTrigger>wimport</tabTrigger>
+<description></description>
+<scope>text.html.vue, source.js.embedded.html, source.js, meta.import.js, keyword.control.import-export.js</scope>
+</snippet>

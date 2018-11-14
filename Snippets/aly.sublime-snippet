@@ -1,0 +1,8 @@
+<snippet>
+<content><![CDATA[
+this.\$apply()
+]]></content>
+<tabTrigger>aly</tabTrigger>
+<description></description>
+<scope>text.html.vue, source.js.embedded.html, source.js, meta.export.js, meta.class.js, meta.block.js, meta.block.js, meta.conditional.js, meta.block.js, variable.language.this.js</scope>
+</snippet>

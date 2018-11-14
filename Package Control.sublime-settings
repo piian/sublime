@@ -1,0 +1,41 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"All Autocomplete",
+		"Blade Snippets",
+		"Bootstrap 3 Autocomplete",
+		"Bootstrap 3 Snippets",
+		"Case Conversion",
+		"DocBlockr",
+		"EditorConfig",
+		"Emmet",
+		"Git",
+		"GitGutter",
+		"HTML-CSS-JS Prettify",
+		"jQuery",
+		"Laravel 5 Artisan",
+		"Laravel 5 Snippets",
+		"Laravel Blade AutoComplete",
+		"Laravel Blade Highlighter",
+		"Laravel Blade Spacer",
+		"Laravel Helper Completions",
+		"LESS",
+		"Material Theme",
+		"Package Control",
+		"PackageResourceViewer",
+		"PHP Companion",
+		"Phpcs",
+		"ProjectManager",
+		"Pug",
+		"Sass",
+		"SnippetMaker",
+		"SublimeLinter",
+		"SublimeLinter-php",
+		"Vue Syntax Highlight"
+	]
+}

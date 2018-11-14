@@ -1,0 +1,8 @@
+<snippet>
+<content><![CDATA[
+<image class="weui-vcode-img" @tap="$1" src="$2"${3: style="$4"}></image>
+]]></content>
+<tabTrigger>wimage</tabTrigger>
+<description></description>
+<scope>text.html.vue</scope>
+</snippet>

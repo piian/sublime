@@ -1,0 +1,8 @@
+<snippet>
+<content><![CDATA[
+let $1 = wepy.getStorageSync('$1')
+]]></content>
+<tabTrigger>wgss</tabTrigger>
+<description></description>
+<scope>text.html.vue, source.js.embedded.html, source.js, meta.block.js, meta.block.js, storage.type.js</scope>
+</snippet>

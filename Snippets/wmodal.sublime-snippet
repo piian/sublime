@@ -1,0 +1,10 @@
+<snippet>
+<content><![CDATA[
+<modal title="标题" confirm-text="confirm" cancel-text="cancel" hidden="{{modalHidden}}" bindconfirm="modalChange" bindcancel="modalChange">
+  $0
+</modal>
+]]></content>
+<tabTrigger>wmodal</tabTrigger>
+<description></description>
+<scope>text.html.vue, source.js.embedded.html, source.js, meta.export.js, meta.class.js, meta.block.js, meta.object-literal.js, meta.block.js, meta.function-call.method.js, meta.group.js, punctuation.section.group.end.js</scope>
+</snippet>

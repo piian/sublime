@@ -1,0 +1,8 @@
+<snippet>
+<content><![CDATA[
+<view wx:if="{{ errors.$1 }}" class="weui-cells__tips error-message">{{ errors.$1[0] }}</view>
+]]></content>
+<tabTrigger>wtips</tabTrigger>
+<description></description>
+<scope>text.html.vue, meta.tag.other.html, punctuation.definition.tag.begin.html</scope>
+</snippet>

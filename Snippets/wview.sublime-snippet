@@ -1,0 +1,10 @@
+<snippet>
+<content><![CDATA[
+<view${1: class="${2}"}>
+    $0
+</view>
+]]></content>
+<tabTrigger>wview</tabTrigger>
+<description></description>
+<scope>text.html.vue, meta.tag.other.html, punctuation.definition.tag.begin.html</scope>
+</snippet>

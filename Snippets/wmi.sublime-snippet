@@ -1,0 +1,10 @@
+<snippet>
+<content><![CDATA[
+<view class="weui-media-box__info topic-info">
+  <view class="weui-media-box__info__meta">$1</view>
+</view>
+]]></content>
+<tabTrigger>wmi</tabTrigger>
+<description></description>
+<scope>text.html.vue, meta.tag.other.html, punctuation.definition.tag.begin.html</scope>
+</snippet>

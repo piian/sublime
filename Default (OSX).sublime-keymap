@@ -1,0 +1,17 @@
+[
+    { "keys": ["ctrl+super+l"], "command": "sublimelinter_lint" },
+    { "keys": ["ctrl+super+e"], "command": "sublimelinter_goto_error", "args": {"direction": "next"} },
+    { "keys": ["ctrl+super+shift+e"], "command": "sublimelinter_goto_error", "args": {"direction": "previous"} },
+    { "keys": ["ctrl+super+a"], "command": "sublimelinter_show_all_errors" },
+    { "keys": ["ctrl+super+t"], "command": "sublimelinter_toggle_linter", "args": {"which": "all"}},
+    { "keys": ["super+d"], "command": "duplicate_line" },
+    { "keys": ["super+shift+d"], "command": "find_under_expand" },
+     { "keys": ["f5"], "command": "expand_fqcn" },
+      { "keys": ["shift+f5"], "command": "expand_fqcn", "args": {"leading_separator": true} },
+      { "keys": ["option+enter"], "command": "find_use" },
+      { "keys": ["f3"], "command": "implement" },
+      { "keys": ["f4"], "command": "insert_php_constructor_property" },
+  { "keys": ["super+g"], "command": "show_overlay", "args": {"overlay": "goto", "text": ":"} },
+  { "keys": ["super+shift+r"], "command": "goto_symbol_in_project" },
+
+]
