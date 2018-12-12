@@ -1,0 +1,10 @@
+<snippet>
+<content><![CDATA[
+<a class="btn btn-default$1" href="$2" >
+    $0
+</a>
+]]></content>
+<tabTrigger>btna</tabTrigger>
+<description>btn a</description>
+<scope>text.blade, text.html.blade, meta.tag.inline.a.html, punctuation.definition.tag.begin.html</scope>
+</snippet>

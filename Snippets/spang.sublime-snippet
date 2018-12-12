@@ -1,0 +1,8 @@
+<snippet>
+<content><![CDATA[
+<span class="glyphicon glyphicon-$1" aria-hidden="true"></span>$0
+]]></content>
+<tabTrigger>spang</tabTrigger>
+<description>span glyphicon</description>
+<scope>text.blade, text.html.blade, meta.tag.inline.any.html, punctuation.definition.tag.begin.html</scope>
+</snippet>

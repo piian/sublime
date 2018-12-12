@@ -1,0 +1,15 @@
+<snippet>
+<content><![CDATA[
+<div class="form-group">
+    <label for="${1:field}" class="col-md-2 control-label">${2:${1/^(\w)|(?:-(\w))/(?1\u$1:)(?2 \u$2:)/g}}</label>
+
+    <div class="col-md-10">
+        ${3:<input id="${1:}" type="text" class="form-control" name="${1/^(\w)|(?:-(\w))/(?1$1:)(?2_$2:)/g}}">
+    </div>
+</div>
+$0
+]]></content>
+<tabTrigger>form-group</tabTrigger>
+<description>bootstrap form group</description>
+<scope>text.blade, text.html.blade, meta.tag.block.any.html, punctuation.definition.tag.begin.html</scope>
+</snippet>

@@ -1,0 +1,18 @@
+<snippet>
+<content><![CDATA[
+<div class="panel panel-default">
+
+    <div class="panel-heading">
+        $1
+    </div>
+
+    <div class="panel-body">
+        $2
+    </div>
+</div>
+$0
+]]></content>
+<tabTrigger>panel-full</tabTrigger>
+<description>Bootstrap panel full</description>
+<scope>text.blade, text.html.blade, meta.tag.block.any.html, punctuation.definition.tag.begin.html</scope>
+</snippet>

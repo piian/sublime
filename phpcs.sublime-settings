@@ -1,5 +1,6 @@
 {
-      // "phpcs_php_prefix_path": "/usr/local/bin/phpcs",
-    "php_cs_fixer_executable_path": "/usr/local/bin/phpcs",
-    "php_cs_fixer_on_save": false,
+    "php_cs_fixer_on_save": true,
+
+    // Path to where you have the php-cs-fixer installed
+    "php_cs_fixer_executable_path": "/usr/local/bin/php-cs-fixer",
 }

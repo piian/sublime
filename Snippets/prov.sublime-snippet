@@ -1,0 +1,8 @@
+<snippet>
+<content><![CDATA[
+protected \$${1:field}${2: = '${3:value}'};$0
+]]></content>
+<tabTrigger>prov</tabTrigger>
+<description>protected variable</description>
+<scope>embedding.php, text.html.basic, meta.embedded.block.php, source.php, meta.class.php, meta.block.php, storage.modifier.php</scope>
+</snippet>

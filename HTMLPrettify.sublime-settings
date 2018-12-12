@@ -6,13 +6,8 @@
         // if you want to be able to prettify the default files as well.
         "html":
         {
-            "allowed_file_syntaxes": ["html", "xml", "vue"],
-            "disallowed_file_patterns": ["html", "xml", "vue", "pug"]
-        },
-        "js":
-        {
-            "allowed_file_syntaxes": ["javascript", "ecma", "react", "babel"],
-            "disallowed_file_patterns": ["pug"]
-        },
+            "allowed_file_extensions": ["htm", "html", "xhtml", "shtml", "xml", "svg", "php"],
+            "allowed_file_syntaxes": ["html", "xml", "Laravel Blade"],
+        }
     }
 }

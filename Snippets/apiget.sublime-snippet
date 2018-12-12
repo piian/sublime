@@ -1,0 +1,9 @@
+<snippet>
+<content><![CDATA[
+\$api->get('${1:}', '${1/^(\w)/(?1\u$1:)/g}Controller@$3')
+    ->name('api.$1.$3');
+]]></content>
+<tabTrigger>apiget</tabTrigger>
+<description></description>
+<scope>embedding.php, text.html.basic, meta.embedded.block.php, source.php, meta.function-call.php, meta.group.php, meta.function.php, meta.block.php, variable.other.php, punctuation.definition.variable.php</scope>
+</snippet>

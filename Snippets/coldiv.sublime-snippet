@@ -1,0 +1,9 @@
+<snippet>
+<content><![CDATA[
+<div class="col-lg-${1:2}"></div>
+<div class="col-lg-${1/^(2)|(4)/?1(10)?2(8)/g}"></div>
+]]></content>
+<tabTrigger>coldiv</tabTrigger>
+<description>col div</description>
+<scope>text.blade, text.html.blade, meta.tag.block.any.html, punctuation.definition.tag.begin.html</scope>
+</snippet>

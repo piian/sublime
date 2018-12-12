@@ -1,0 +1,12 @@
+<snippet>
+<content><![CDATA[
+<div class="col-lg-3 col-md-3 hidden-sm hidden-xs$1">
+    $0
+</div>
+<div class="col-lg-9 col-md-9 col-sm-12 col-xs-12">
+</div>
+]]></content>
+<tabTrigger>col39</tabTrigger>
+<description>Bootstrap col 3 and 9</description>
+<scope>text.blade, text.html.blade, meta.tag.block.any.html, punctuation.definition.tag.begin.html</scope>
+</snippet>

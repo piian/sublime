@@ -1,0 +1,8 @@
+<snippet>
+<content><![CDATA[
+aria-hidden="${1:true}"$0
+]]></content>
+<tabTrigger>aria-hidden</tabTrigger>
+<description>aria-hidden</description>
+<scope>text.blade, text.html.blade, meta.tag.inline.any.html, meta.attribute-with-value.html, entity.other.attribute-name.html</scope>
+</snippet>

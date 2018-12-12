@@ -1,0 +1,9 @@
+<snippet>
+<content><![CDATA[
+ \App\Models\Employee::insert($employees->toArray());
+        $employees = \App\Models\Employee::all();
+]]></content>
+<tabTrigger>makeemployee</tabTrigger>
+<description></description>
+<scope>embedding.php, text.html.basic, meta.embedded.block.php, source.php, meta.class.php, meta.block.php, meta.function.php, meta.block.php</scope>
+</snippet>
