@@ -16,16 +16,11 @@
 		".svn",
 		".git",
 		".hg",
-		"CVS",
-		"dist"
+		"CVS"
 	],
 	"font_face": "Source Code Pro",
 	"font_size": 18,
 	"highlight_modified_tabs": true,
-	"ignored_packages":
-	[
-		""
-	],
 	"line_padding_button": 8,
 	"line_padding_top": 8,
 	"open_files_in_new_window": false,
